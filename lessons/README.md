@@ -1,8 +1,6 @@
 # 🌲 Cypress, do Zero à Nuvem ☁️
 
-👋 Seja bem-vindo(a)!
-
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. ❤️
+Curso de cypress da Escola Talking About Testing
 
 ## O que você vai aprender?
 
@@ -19,10 +17,23 @@
 - Como executar os testes em um _workflow_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
 - Como integrar seu _workflow_ de integração contínua com o Cypress Cloud (o serviço de gestão de testes do Cypress na nuvem)
 
+# Pré-requisitos
+
+Para a realização do curso, há sistemas que precisam estar instalados e conhecimentos prévios necessários, os quais são listados abaixo.
+
+## Sistemas
+
+Antes de começar, certifique-se de que os seguintes sistemas estejam instalados em seu computador.
+
+- [git](https://git-scm.com/) (`2.42.1` no momento da redação deste artigo)
+- [Node.js](https://nodejs.org/en/) (`v20.13.1` no momento da redação deste artigo)
+- npm (`10.8.1` no momento da redação deste artigo)
+- [Visual Studio Code](https://code.visualstudio.com/) (`v1.90.2` no momento da redação deste artigo) ou alguma outra IDE de sua preferência
+
 ## Vamos começar?
 
 Vá para a seção [estrutura do curso](./_course-structure_.md).
 
-___
+---
 
 Este é um curso da **Escola Talking About Testing**.

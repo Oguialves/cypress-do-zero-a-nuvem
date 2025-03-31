@@ -1,3 +1,5 @@
+Cypress._.times (5, () =>{
+  
 describe("Acesso a pagina de Politica de privacidade sem passar pelo aplicação CAC-TAT", () => {
   it.only("testa a página da política de privacidade de forma independente", () => {
     cy.visit("src/privacy.html");
@@ -6,3 +8,5 @@ describe("Acesso a pagina de Politica de privacidade sem passar pelo aplicação
     cy.contains('p', 'Talking About Testing').should('be.visible')
   });
 });
+
+})
